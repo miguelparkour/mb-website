@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mb-website/static/css/main.073c9b0a.css",
+    "main.js": "/mb-website/static/js/main.e63a9834.js",
+    "static/js/787.8e58601b.chunk.js": "/mb-website/static/js/787.8e58601b.chunk.js",
+    "static/media/logo.svg": "/mb-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mb-website/index.html",
+    "main.073c9b0a.css.map": "/mb-website/static/css/main.073c9b0a.css.map",
+    "main.e63a9834.js.map": "/mb-website/static/js/main.e63a9834.js.map",
+    "787.8e58601b.chunk.js.map": "/mb-website/static/js/787.8e58601b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e63a9834.js"
+  ]
+}
