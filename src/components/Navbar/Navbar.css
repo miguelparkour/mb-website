@@ -1,0 +1,22 @@
+/* src/components/Navbar.css */
+.active {
+    font-weight: bold;
+  }
+.navbar-links{
+    background-color: #333;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+    gap: 4em;
+}
+
+.navbar-links .nav-link {
+    padding: 1rem;
+    color:#fff;
+}
+
+.navbar-logo {
+    max-height: 4em;
+}
